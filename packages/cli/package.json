@@ -45,7 +45,7 @@
   },
   "dependencies": {
     "@clack/prompts": "0.7.0",
-    "bundle-n-require": "1.1.1",
+    "bundle-n-require": "1.1.2",
     "chokidar": "3.6.0",
     "commander": "12.0.0",
     "prettier": "3.2.5"
